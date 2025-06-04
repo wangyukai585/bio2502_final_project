@@ -1,0 +1,4 @@
+biopython>=1.79
+matplotlib>=3.5
+numpy>=1.21
+setuptools>=42

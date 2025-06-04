@@ -1,0 +1,12 @@
+# Python 缓存
+__pycache__/
+*.pyc
+
+# 中间输出文件
+*.csv
+*.paf
+*.fastq
+*.fa.gz
+
+# Egg info
+*.egg-info/
